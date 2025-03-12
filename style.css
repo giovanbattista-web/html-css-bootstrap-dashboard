@@ -15,12 +15,6 @@ header ul li{
              margin: 0px 15px;
 }
 
-.content{
-        background-color: #001533;
-        color:#fff;
-        border: 1px solid black;
-        padding: 15px;
-}
 nav.navbar a.nav-link{
     color: #fff;
 }
