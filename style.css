@@ -2,6 +2,36 @@ header {
         background-color: #001533;
 }
 
+.logo{
+      display: flex;
+      align-items: center;
+}
+
+.logo img{
+          width: 45px;
+}
+
+header ul li{
+             margin: 0px 15px;
+}
+
+.content{
+        background-color: #001533;
+        color:#fff;
+        border: 1px solid black;
+        padding: 15px;
+}
 nav.navbar a.nav-link{
     color: #fff;
+}
+
+nav.navbar a.nav-link.active{
+                             color:#fff;
+                             font-weight:750;
+}
+
+nav.navbar i, nav.navbar i:focus{
+                                 border:0px;
+                                 box-shadow:none;
+                                 color: #fff;
 }
