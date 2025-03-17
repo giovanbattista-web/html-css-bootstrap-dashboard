@@ -12,22 +12,21 @@ header {
 }
 
 header ul li{
-             margin: 0px 15px;
+             margin: 0px 3px;
 }
 
 nav.navbar a.nav-link{
     color: #fff;
 }
 
-nav.navbar a.nav-link.active{
-                             color:#fff;
-                             font-weight:750;
+.btn-primary{
+         color: white;
+         background-color: #001533;
 }
 
-nav.navbar i, nav.navbar i:focus{
-                                 border:0px;
-                                 box-shadow:none;
-                                 color: #fff;
+.border-width{
+         border: 1px solid white;
+         
 }
 
 
